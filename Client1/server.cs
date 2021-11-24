@@ -23,7 +23,7 @@ namespace Client1
         public static string receivedPath = "C:/Users/ASUS/OneDrive/caro/OneDrive/Desktop/";
         public static string curMsg_server = "Stopped!";
 
-
+        decimal\
         public void StartServer()
         {
             try
